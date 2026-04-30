@@ -1,0 +1,2 @@
+fruits  = {"apple": "saib", "banana": "kela", "orange": "malta", "grapes": "angoor", "watermelon": "tarbooz", "pineapple": "ananas", "strawberry": "strawberry", "blueberry": "blueberry", "kiwi": "kiwi", "mango": "aam"}
+print("",fruits)
