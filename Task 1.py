@@ -3,7 +3,7 @@
 # hello()
 
 # def info():
-#     print('Name = Latif' ,' ', 'Age = 19')
+#     print('Name = Adnan' ,' ', 'Age = 19')
 # info()
 
 
