@@ -1,8 +1,8 @@
-# name= "Latif"
+# name= "Adnan"
 # print(len(name))
 # ------------------------------------------
 # def Sayhi():
-#     print("Latif")
+#     print("Adnan")
 #     print("Roll no 39")
     
 # Sayhi()
