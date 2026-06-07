@@ -1,5 +1,5 @@
 # Task 3: Format Output
-Name = 'Latif'
+Name = 'Adnan'
 Age = 19
-City = 'Lahore'
-print("Name:Latif\nAge:19\nCity:Lahore")
+City = 'Pattoki'
+print("Name:Latif\nAge:19\nCity:Pattoki")
