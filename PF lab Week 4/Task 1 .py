@@ -5,11 +5,3 @@ def greet(msg):
 
 greet (msg)
 greet (msg)
-
-# ---------------------------------------
-
-#Alternative of Task 1
-# msg="Welcome to Python programming"
-# def greet(*message):
-#     print(msg)
-# greet (msg)
