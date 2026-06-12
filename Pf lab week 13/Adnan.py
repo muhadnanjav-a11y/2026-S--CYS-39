@@ -1,3 +1,3 @@
 def welcome():
-    print("Orewa")
+    print("Adnan")
 welcome()
