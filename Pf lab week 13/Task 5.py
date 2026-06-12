@@ -1,11 +1,11 @@
-# import latif
+# import Adnan
 # if __name__ == "__main__":
-#     latif.welcome()
+#     Adnan.welcome()
 
 #----------------------------------
 
-# import latif
-# latif.welcome
+# import Adnan
+# Adnan.welcome
 
 #----------------------------------
 
