@@ -1,6 +1,6 @@
-# import latif
+# import Adnan
 # if __name__ == "__main__":
-#     latif.welcome()
+#     Adnan.welcome()
 
 #-------------------------------------
 
@@ -12,7 +12,7 @@
 #------------------------------------
 
 # a = open("file3.txt","a")
-# s = a.write("Latif")
+# s = a.write("Adnan")
 # a.close()
 # print(s)
 
