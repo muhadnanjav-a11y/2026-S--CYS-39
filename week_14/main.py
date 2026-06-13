@@ -1,7 +1,7 @@
-# import badar
+# import Adnan
 import os
 # if __name__ == "__main__":
-#     badar.welcome()
+#     Adnan.welcome()
 
 # def main():
 #     print("This is the main function of the program.")
